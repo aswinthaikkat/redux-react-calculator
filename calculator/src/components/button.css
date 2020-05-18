@@ -1,0 +1,23 @@
+.button-wrapper {
+  background-color: #8f7e4f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #dedbd8;
+  height: 5rem;
+  font-size: 3rem;
+  flex: 1;
+  border: 0.05rem solid #524632;
+}
+
+.button-wrapper-border {
+  background-color: #8f7e4f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #dedbd8;
+  height: 5rem;
+  font-size: 3rem;
+  border: 0.1rem solid #524632;
+  flex: 1;
+}
